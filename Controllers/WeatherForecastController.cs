@@ -21,7 +21,7 @@ namespace WebApplication3.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public string Get()
         {
-            return "second";
+            return "third";
             
         }
     }

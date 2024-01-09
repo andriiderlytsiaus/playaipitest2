@@ -30,3 +30,4 @@ C:\Users\andri\source\repos\WebApplication3\WebApplication3\obj\Debug\net6.0\ref
 C:\Users\andri\source\repos\WebApplication3\WebApplication3\obj\Debug\net6.0\WebApplication3.pdb
 C:\Users\andri\source\repos\WebApplication3\WebApplication3\obj\Debug\net6.0\WebApplication3.genruntimeconfig.cache
 C:\Users\andri\source\repos\WebApplication3\WebApplication3\obj\Debug\net6.0\ref\WebApplication3.dll
+C:\Users\andri\source\repos\WebApplication3\WebApplication3\obj\Debug\net6.0\WebApplication3.sourcelink.json
